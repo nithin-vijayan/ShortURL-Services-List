@@ -1,4 +1,3 @@
-
 0rz.tw
 1-url.net
 126.am
@@ -12,14 +11,12 @@
 2.gp
 2.ht
 207.net
-207.net	
 23o.net
 2ad.in
 2big.at
 2doc.net
 2fear.com
 2o7.net
-2o7.net	
 2pl.us
 2tu.us
 2ty.in
@@ -56,7 +53,7 @@ ad-med.cz
 ad5.eu
 ad7.biz
 adb.ug
-adbe.ly	
+adbe.ly
 adf.ly
 adfa.st
 adfly.fr
@@ -138,9 +135,7 @@ cort.as
 couic.fr
 cr.tl
 ctx.li
-ctx.li	
 ctx.ly
-ctx.ly	
 cudder.it
 cur.lv
 curl.im
@@ -507,7 +502,6 @@ tin.li
 tini.cc
 tiny.cc
 tiny.io
-tiny.io	
 tiny.lt
 tiny.ms
 tiny.pl
@@ -586,7 +580,7 @@ urlz.fr
 urlzen.com
 urub.us
 utfg.sk
-v-os.net	
+v-os.net
 v.gd
 v.ht
 v5.gd
