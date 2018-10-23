@@ -1,4 +1,5 @@
 0rz.tw
+0x.co
 1-url.net
 126.am
 1b.yt
@@ -131,6 +132,7 @@ cbs.so
 cbug.cc
 cc.cc
 ccj.im
+ce.do
 cf.ly
 cf2.me
 cf6.co
@@ -156,6 +158,7 @@ ctx.ly
 cudder.it
 cur.lv
 curl.im
+cut.do
 cut.pe
 cut.sk
 cutit.org
@@ -177,6 +180,7 @@ ddp.net
 decenturl.com
 dfl8.me
 dft.ba
+di.do
 digbig.com
 digg.com
 disq.us
@@ -203,6 +207,7 @@ esyurl.com
 ewerl.com
 ex9.co
 ezurl.cc
+fa.do
 ff.im
 fff.re
 fff.to
@@ -210,7 +215,6 @@ fff.wf
 fhurl.com
 filz.fr
 fire.to
-firsturl.de
 firsturl.de
 flic.kr
 flip.it
@@ -253,6 +257,7 @@ hellotxt.com
 hex.io
 hide.my
 hjkl.fr
+ho.do
 hops.me
 hover.com
 href.in
@@ -302,6 +307,7 @@ jp22.net
 jqw.de
 just.as
 k6.re
+ka.do
 kask.us
 kbit.co
 kd2.org
@@ -435,6 +441,7 @@ piurl.com
 plots.fr
 plu.sh
 pnt.me
+po.do
 po.st
 poprl.com
 post.ly
@@ -664,6 +671,7 @@ urlx.ie
 urlx.org
 urlz.fr
 urlzen.com
+urnic.com
 urub.us
 utfg.sk
 utm.io
@@ -709,6 +717,8 @@ ww7.fr
 www.bitmark.me  
 wwy.me
 x.co
+x.co.in
+x.co.za
 x.nu
 x.se
 x10.mx
